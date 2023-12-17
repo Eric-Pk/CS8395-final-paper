@@ -1,6 +1,3 @@
-Certainly! Below is a template for a `README.md` file for your project on evaluating GPT-4's capabilities in translating Python code to Java. You can adjust the content to fit the specific details and requirements of your project.
-
-
 # Python to Java Code Translation Using GPT-4
 
 This project explores the capabilities of GPT-4, a state-of-the-art Large Language Model (LLM) developed by OpenAI, in translating Python code into Java. The aim is to assess the effectiveness, efficiency, and reliability of GPT-4 in understanding and converting Python syntax and idioms into their Java equivalents, while maintaining the logic and functionality of the original code.
